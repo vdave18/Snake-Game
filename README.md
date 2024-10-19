@@ -1,5 +1,3 @@
-Got it! Here’s the complete `README.md` file as a single block of text for you to copy:
-
 # Snake Game
 
 A simple implementation of the classic Snake game developed using Python and the Pygame library. In this game, players control a snake that moves around the screen, trying to eat food while avoiding collisions with the walls and its own body. The game provides an engaging way to practice programming with Python and understand basic game development concepts.
@@ -24,16 +22,17 @@ A simple implementation of the classic Snake game developed using Python and the
 - Run the installer and make sure to check the box that says **"Add Python to PATH."**
 - After installation, verify that Python is installed by opening your command prompt and running:
 
-
+  ```bash
   python --version
-  
+  ```
 
 ### 2. Install Pygame
 
 - Open your command prompt and run the following command to install Pygame:
 
-
+  ```bash
   python -m pip install pygame
+  ```
 
 ## Running the Game
 
@@ -84,6 +83,3 @@ This project is licensed under the MIT License.
 1. Create a new file named `README.md` in your project directory.
 2. Copy the above content.
 3. Paste it into the `README.md` file and save it.
-```
-
-You can copy the entire block above directly into your `README.md` file!

@@ -78,8 +78,4 @@ If you are using Visual Studio, ensure that the Python interpreter is set to the
 
 This project is licensed under the MIT License.
 
-### Instructions to Use the README
-
-1. Create a new file named `README.md` in your project directory.
-2. Copy the above content.
-3. Paste it into the `README.md` file and save it.
+Thanks!!!
